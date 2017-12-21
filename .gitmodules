@@ -1,0 +1,6 @@
+[submodule "RICK2"]
+	path = RICK2
+	url = https://github.com/tongjizhangbang/Folder2.git
+[submodule "RICK3"]
+	path = RICK3
+	url = https://github.com/tongjizhangbang/Folder3.git
